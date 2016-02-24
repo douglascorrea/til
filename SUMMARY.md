@@ -1,4 +1,4 @@
 # Summary
 
-* [Vim](vim)
+* [Vim](vim/README.md)
     * [Using indentation](vim/using-indentation.md)
