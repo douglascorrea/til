@@ -15,7 +15,7 @@ _1 TILs and counting..._
 ## Gitbook
 I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 
-[Today I Learned by Douglas Correa](http://til.douglascorrrea.io)
+[Today I Learned by Douglas Correa](http://til.douglascorrea.io)
 
 ---
 
