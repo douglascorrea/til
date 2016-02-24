@@ -4,7 +4,9 @@
 
 A collection of personal concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
-This is a personal reference, so it is written in a way I understand
+
+This is a personal reference, so it is written in a way I understand.
+
 Besides [Fixing submissions](CONTRIBUTING.md) are welcome, I maintain thispersonal. If you want to contribute to an collective TIL I recommend you to take a look at [til-collective](https://github.com/til-collective/til-collective) from Josh Branchaud.
 
 _1 TILs and counting..._
