@@ -45,5 +45,5 @@ I shamelessly stole this idea from
 
 &copy; 2016 Douglas Silvio Corrêa [Twitter](https://twitter.com/douglas_correa)
 
-This repository is licensed under the MIT license. See `LICENSE` for
+This repository is licensed under the MIT license. See [LICENSE](https://github.com/douglascorrea/til/blob/master/LICENSE) for
 decails.
