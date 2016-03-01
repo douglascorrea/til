@@ -1,3 +1,4 @@
+# Configuration options
 There some useful preferences that you can set in your `login.sql` or `glogin.sql` that will help you use sqlplus inside your shell scripts.
 
 `set linesize 30000` : This is used to set the width of each page in your sql results
@@ -12,3 +13,5 @@ There some useful preferences that you can set in your `login.sql` or `glogin.sq
 
 All commands can be used in any sql file and in the interactive sqlplus prompt as well. But it if you always will use this configuration it is better to put in `login.sql`
 or even `glogin.sql`
+
+To remove some headers and footers when you login and logoff in sqlplus, use `sqlplus -s` option
