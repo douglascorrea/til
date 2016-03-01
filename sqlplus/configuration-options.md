@@ -21,6 +21,8 @@ There some useful preferences that you can set in your `login.sql` or `glogin.sq
 
 `set colsep ,` : Separate columns with a comma
 
+`set newpage none` : it will have the first blank line on sqlplus spool 
+
 
 All commands can be used in any sql file and in the interactive sqlplus prompt as well. But it if you always will use this configuration it is better to put in `login.sql`
 or even `glogin.sql`
