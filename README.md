@@ -29,6 +29,10 @@ I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 
 - [Using indentation](vim/using-indentation.md)
 
+### sqlplus
+
+- [Configuration Options](sqlplus/configuration-options.md)
+
 ## About
 
 I shamelessly stole this idea from
