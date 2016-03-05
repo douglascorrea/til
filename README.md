@@ -22,6 +22,9 @@ I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 ### Categories
 
 * [Vim](#vim)
+* [Sqlplus](#sqlplus)
+* [Siebel](#siebel)
+* [Programming](#programming)
 
     ---
 
@@ -29,7 +32,7 @@ I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 
 - [Using indentation](vim/using-indentation.md)
 
-### sqlplus
+### Sqlplus
 
 - [Configuration Options](sqlplus/configuration-options.md)
 
