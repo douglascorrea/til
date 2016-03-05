@@ -36,6 +36,9 @@ I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 
 - [Configuration Options](sqlplus/configuration-options.md)
 
+### Siebel
+- [
+
 ## About
 
 I shamelessly stole this idea from
