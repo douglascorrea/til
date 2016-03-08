@@ -25,6 +25,7 @@ I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 * [Sqlplus](#sqlplus)
 * [Siebel](#siebel)
 * [Programming](#programming)
+* [Office](#office)
 
 ---
 
@@ -42,6 +43,10 @@ I added an SUMMARY.md file and created an Gitbook for it. You can access here:
 ### Programming
 
 - [Sugar Syntax](programming/sugar-syntax.md)
+
+### Office
+
+- [Office CDN Problems](office/office-cdn-problems.md)
 
 ## About
 

@@ -10,5 +10,7 @@
     * [Siebel URL Parameters](siebel/url-parameters.md)
 * [Programming](programming/README.md)
     * [Sugar Syntax](programming/sugar-syntax.md)
+* [Office](office/README.md)
+    * [Office CDN Problems](office/office-cdn-problems.md)
 * [Contributing](CONTRIBUTING.md)
 * [License](https://github.com/douglascorrea/til/blob/master/LICENSE)
